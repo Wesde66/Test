@@ -1,0 +1,1 @@
+<?php include_once("..\Web_Pages\Privacy_Statement.html"); ?> .
