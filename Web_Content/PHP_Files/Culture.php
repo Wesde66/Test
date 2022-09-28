@@ -1,1 +1,0 @@
-<?php include_once("..\Web_Pages\Culture.html"); ?> .
